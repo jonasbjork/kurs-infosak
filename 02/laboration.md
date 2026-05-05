@@ -1,4 +1,4 @@
-# Övning: Klassificering och riskbedömning
+# Laboration: Klassificering och riskbedömning
 
 I övningen jobbar ni två och två.
 
